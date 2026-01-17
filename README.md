@@ -7,3 +7,6 @@ Musicol is a web application designed to help musicians organize individual trac
 - Database - MySQL, AWS S3
 - Backend - . NET Core, .NET 7.0, Entity framework
 - Frontend - Vue 3, Typescript
+
+> [!CAUTION]
+> **Note: This repo is still in progress**
